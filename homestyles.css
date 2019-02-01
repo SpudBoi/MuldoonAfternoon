@@ -18,7 +18,7 @@ margin: 0;
 .bottom-right {
 margin: 0;
   position: absolute;
-  top: 75%;
+  top: 69%;
   left: 80%;
   -ms-transform: translate(-75%, -65%);
   transform: translate(-75%, -65%);
@@ -34,7 +34,12 @@ margin: 0;
 }
 
 .smol {
-    font-size: 16pt;
+    font-size: 14pt;
+    line-height: 160%;
+}
+
+.lav {
+    color:#967bb6;
 }
 
 body {
@@ -50,6 +55,7 @@ h1 {
 p {
   color: #d9d9d9;
   font-family: "Verdana", Geneva, sans-serif;
-  font-size: 46pt;
+  font-size: 58pt;
   line-height = 1.8pt;
 }
+
